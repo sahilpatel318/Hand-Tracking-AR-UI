@@ -37,7 +37,8 @@ This project is an Augmented Reality (AR) Hand Tracking User Interface demo. It 
 - Try different gestures (open hand, pinch, fist) to see UI changes.
 
 ## Author
-Made by Tuba Khan
+Made by Sahil Patel
 
 ## License
 MIT License
+
